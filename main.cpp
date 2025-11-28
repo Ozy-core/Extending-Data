@@ -60,3 +60,18 @@ public:
     }
 
 };
+
+template <typename T>
+
+class Quack{
+    private:
+
+    public:
+    
+};
+
+
+int main()
+{
+
+}
